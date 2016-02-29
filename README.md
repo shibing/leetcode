@@ -5,5 +5,6 @@
 3. [15.cpp: 3sum](https://leetcode.com/problems/3sum/)
 4. [transpose.awk](https://leetcode.com/problems/transpose-file/)
 5. [word_frequency.sh](https://leetcode.com/problems/word-frequency/)
+6. [197.sql](https://leetcode.com/problems/rising-temperature/)
 
 
